@@ -1,0 +1,10 @@
+{
+  "products" : { },
+  "employees" : { },
+  "storages" : { },
+  "stores" : { },
+  "saleHistory" : {
+    "records" : [ ]
+  },
+  "customers" : { }
+}

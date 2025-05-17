@@ -1,0 +1,31 @@
+{
+  "saleHistory" : {
+    "allRecords" : [ ]
+  },
+  "allProducts" : [ ],
+  "allStorages" : [ {
+    "id" : "S1",
+    "address" : "ул. Складская, 10",
+    "allCells" : [ ]
+  } ],
+  "allStores" : [ {
+    "id" : "ST1",
+    "name" : "Основной магазин",
+    "addresses" : [ ],
+    "profit" : 0.0,
+    "open" : true,
+    "availableProducts" : { }
+  } ],
+  "allEmployees" : [ {
+    "id" : "E1",
+    "name" : "Иван Иванов",
+    "role" : "WAREHOUSE_MANAGER",
+    "assignedTo" : null
+  }, {
+    "id" : "E2",
+    "name" : "Мария Петрова",
+    "role" : "SALESMAN",
+    "assignedTo" : null
+  } ],
+  "allCustomers" : [ ]
+}
